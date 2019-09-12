@@ -1,0 +1,562 @@
+@media screen and (max-width: 1800px) {
+  .bannerSec {
+    .slick-slide.slick-current.slick-active {
+      .container {
+        // bottom: 70px;
+      }
+      .rusk-slide {
+        .elaichi-bunch {
+          bottom: 314px;
+        }
+        .grain {
+          bottom: 212px;
+        }
+        .chai-rusk {
+          bottom: 143px;
+        }
+        .smoke {
+          bottom: 378px;
+        }
+        .grain-elaichi {
+          bottom: 397px;
+        }
+        .elaichi2 {
+          bottom: 154px;
+          right: 450px;
+        }
+        .quality-tag {
+          bottom: 520px;
+        }
+        .crisp-tag {
+          right: 88px;
+          bottom: 464px;
+        }
+        .chai-grain {
+          bottom: 465px;
+        }
+        .top-elaichi {
+          bottom: 563px;
+          left: 490px;
+        }
+        .smoke {
+          bottom: 448px;
+        }
+        .smoke1,
+        .smoke2,
+        .smoke3,
+        .smoke4,
+        .smoke5,
+        .smoke6,
+        .smoke7,
+        .smoke8 {
+          top: 254px;
+        }
+      }
+      .popcorn-slide {
+        .popcorn2 {
+          bottom: 562px;
+        }
+        .popcorn3 {
+          bottom: 192px;
+        }
+        .popcorn5 {
+          bottom: 572px;
+          right: 260px;
+        }
+        .popcorn6 {
+          bottom: 430px;
+        }
+        .red-chilli {
+          bottom: 453px;
+        }
+        .red-chilli1 {
+          bottom: 289px;
+        }
+        .red-chilli2 {
+          bottom: 177px;
+        }
+        .popcorn-text {
+          bottom: 253px;
+        }
+        .popcorn-small-text {
+          bottom: 220px;
+        }
+        .corn {
+          bottom: 326px;
+          right: 285px;
+        }
+        .tomato {
+          bottom: 277px;
+        }
+        .butter {
+          right: -121px;
+        }
+        .popcorn-bucket {
+          bottom: -2px;
+        }
+      }
+      .pasta-slide {
+        .tomato-2 {
+          right: -313px;
+        }
+      }
+    }
+    .green-dot {
+      bottom: 20px;
+    }
+  }
+}
+@media screen and (max-width: 1600px) {
+  .bannerSec {
+    .slick-slide.slick-current.slick-active {
+      .popcorn-slide {
+        .popcorn-bucket {
+          bottom: 0px;
+        }
+        .butter {
+          bottom: 20px;
+        }
+      }
+      .pasta-slide {
+        .tomato-2 {
+          right: -207px;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1400px) {
+  body {
+    height: auto;
+  }
+  .bannerSec {
+    .slick-slide.slick-current.slick-active {
+      .container {
+        // bottom: 280px;
+        z-index: 9;
+        img {
+          transform: scale(0.8);
+        }
+      }
+      .rusk-slide {
+        .text-1 {
+          left: 74px;
+          bottom: 441px;
+        }
+        .text-2 {
+          bottom: 310px;
+          left: -55px;
+        }
+        .text-3 {
+          left: 105px;
+          bottom: 321px;
+        }
+        .text-4 {
+          bottom: 280px;
+          left: -13px;
+        }
+        .text-5 {
+          bottom: 251px;
+          left: -18px;
+        }
+        .text-6 {
+          bottom: 222px;
+          left: -10px;
+        }
+        .text-7 {
+          left: -20px;
+          bottom: 194px;
+        }
+        .grain {
+          bottom: 172px;
+          left: 370px;
+        }
+        .elaichi-bunch {
+          bottom: 264px;
+          left: 500px;
+        }
+        .wheat {
+          bottom: 95px;
+        }
+        .top-small-elaichi {
+          bottom: 485px;
+        }
+        .quality-tag {
+          bottom: 360px;
+          left: 270px;
+          &.show {
+            animation: upDown linear 5s infinite, fade 3s;
+            img {
+              transform: scale(1);
+            }
+          }
+        }
+        .smoke {
+          bottom: 378px;
+          right: 330px;
+        }
+
+        .smoke1,
+        .smoke2,
+        .smoke3,
+        .smoke4,
+        .smoke5,
+        .smoke6,
+        .smoke7,
+        .smoke8 {
+          // border: 1px solid red;
+          top: 300px;
+          transition: all 0.8s;
+          &.animated {
+            animation-duration: 9s;
+            // animation: fadeUP 4s linear 0.5s infinite;
+          }
+        }
+        // .smoke1 {
+        //   right: 289px;
+        // }
+        // .smoke4 {
+        //   right: 310px;
+        // }
+
+        .grain-elaichi {
+          bottom: 337px;
+          left: 430px;
+        }
+        .top-elaichi {
+          bottom: 413px;
+          left: 400px;
+        }
+        .bottom-elaichi {
+          bottom: 115px;
+        }
+        .elaichi1 {
+          bottom: 403px;
+        }
+        .elaichi2 {
+          bottom: 134px;
+          right: 420px;
+        }
+        .chai-rusk {
+          bottom: 93px;
+        }
+        .chai-grain {
+          bottom: 365px;
+        }
+        .crisp-tag {
+          right: 118px;
+          bottom: 378px;
+        }
+      }
+      .popcorn-slide {
+        .popcorn1 {
+          left: 9px;
+          bottom: 205px;
+        }
+        .popcorn2 {
+          bottom: 452px;
+        }
+        .popcorn5 {
+          bottom: 442px;
+          right: 260px;
+        }
+        .popcorn6 {
+          bottom: 320px;
+          right: 70px;
+        }
+        .popcorn-bucket {
+          bottom: 20px;
+          left: 80px;
+          &.show {
+            img {
+              transform: scale(0.95);
+            }
+          }
+        }
+        .tomato {
+          bottom: 237px;
+          left: 437px;
+        }
+        .tomato-2 {
+          top: 335px;
+        }
+        .butter {
+          right: -61px;
+        }
+        .red-chilli {
+          bottom: 353px;
+        }
+        .red-chilli1 {
+          bottom: 189px;
+          right: -50px;
+        }
+        .popcorn-text {
+          bottom: 163px;
+        }
+        .popcorn-small-text {
+          bottom: 161px;
+        }
+        .corn {
+          bottom: 216px;
+          right: 265px;
+        }
+      }
+      .pasta-slide {
+        .soya-box,
+        .pasta-box,
+        .jeera-box {
+          bottom: 70px;
+        }
+        .pasta-box {
+          &:hover {
+            .pasta-1 {
+              &.show {
+                left: 143px;
+                bottom: 211px;
+              }
+            }
+            .pasta-2 {
+              &.show {
+                left: 76px;
+                bottom: 204px;
+              }
+            }
+          }
+        }
+        .jeera-box {
+          &:hover {
+            .jeera-papad-1 {
+              &.show {
+                right: 118px;
+                bottom: 218px;
+              }
+            }
+            .jeera-papad-2 {
+              &.show {
+                top: 6px;
+                left: 1px;
+              }
+            }
+            .jeera-papad-3 {
+              &.show {
+                top: -10px;
+                left: 167px;
+              }
+            }
+          }
+        }
+        .soya-box {
+          &:hover {
+            .soya-katori--1 {
+              &.show {
+                right: 148px;
+                bottom: 230px;
+              }
+            }
+            .soya-katori--2 {
+              &.show {
+                bottom: 239px;
+                right: 100px;
+              }
+            }
+          }
+        }
+        .tomato {
+          bottom: 179px;
+          left: 291px;
+        }
+        .tomato-2 {
+          right: -100px;
+          bottom: 358px;
+        }
+        .tomato-3 {
+          right: 280px;
+          bottom: 97px;
+        }
+        .kali-mirch-1 {
+          bottom: 172px;
+          left: 50px;
+        }
+        .kali-mirch-2 {
+          bottom: 280px;
+          left: 467px;
+        }
+        .kali-mirch-4 {
+          bottom: 247px;
+          left: 286px;
+        }
+        .kali-mirch-5 {
+          bottom: 296px;
+          right: 549px;
+        }
+        .kali-mirch-6 {
+          left: 450px;
+        }
+        .kali-mirch-7 {
+          bottom: 327px;
+          right: 516px;
+        }
+        .kali-mirch-9 {
+          right: 60px;
+          bottom: 210px;
+        }
+        .kali-mirch-10 {
+          bottom: 253px;
+          right: 41px;
+        }
+        .kali-mirch-11 {
+          bottom: 106px;
+          left: 460px;
+        }
+        .kali-mirch-12 {
+          bottom: 277px;
+        }
+        .red-chilli-1 {
+          bottom: 62px;
+          left: 30px;
+        }
+        .red-chilli-3 {
+          bottom: 198px;
+          left: 706px;
+          &.show {
+            animation: shake6 3s infinite, wobble4 4s;
+            // transform: translate(-150px, 60px);
+          }
+        }
+        .pasta-text {
+          bottom: 235px;
+          left: 0;
+          &.show {
+            img {
+              transform: scale(0.75);
+            }
+          }
+        }
+        .jeera-papad-text {
+          bottom: 244px;
+          &.show {
+            img {
+              transform: scale(0.75);
+            }
+          }
+        }
+        .soya-katori-text {
+          bottom: 247px;
+          right: 20px;
+          &.show {
+            img {
+              transform: scale(0.75);
+            }
+          }
+        }
+        .pasta-with-bowl {
+          &.show {
+            img {
+              transform: scale(0.7);
+            }
+          }
+        }
+        .jeera-papad-with-bowl {
+          &.show {
+            img {
+              transform: scale(0.7);
+            }
+          }
+        }
+        .soya-katori-with-bowl {
+          &.show {
+            img {
+              transform: scale(0.7);
+            }
+          }
+        }
+        .pasta-1 {
+          left: 163px;
+          bottom: 161px;
+        }
+        .pasta-2 {
+          left: 46px;
+          bottom: 164px;
+        }
+        .jeera-papad-1 {
+          right: 116px;
+          bottom: 175px;
+        }
+        .jeera-papad-2 {
+          top: 53px;
+          left: 31px;
+        }
+        .jeera-papad-3 {
+          top: 36px;
+          left: 140px;
+        }
+        .soya-katori--1 {
+          right: 150px;
+          bottom: 189px;
+        }
+        .soya-katori--2 {
+          bottom: 196px;
+          right: 74px;
+        }
+        .wheat {
+          right: 78px;
+          bottom: 230px;
+        }
+        .jeera {
+          bottom: 199px;
+        }
+      }
+    }
+    .green-dot {
+      bottom: 72px;
+    }
+    .slick-dots {
+      bottom: 30px;
+      li {
+        margin: 0 0px 10px;
+        button {
+          height: 40px;
+          width: 40px;
+        }
+        .slide-nav-title {
+          font-size: 17px;
+        }
+      }
+    }
+  }
+  .inner-page {
+    .innerSection {
+      padding: 140px 0 40px;
+    }
+  }
+  header {
+    ul {
+      li {
+        a {
+          padding: 10px;
+          .menu-text {
+            font-size: 18px;
+          }
+        }
+        &.has-child {
+          .submenu {
+            ul {
+              li {
+                a {
+                  padding: 10px;
+                  font-size: 18px;
+                }
+              }
+            }
+          }
+        }
+        &.has-subchild {
+          .sub-submenu {
+            width: 220px;
+            right: -225px;
+          }
+        }
+      }
+    }
+  }
+}
